@@ -1,9 +1,9 @@
 # download 
 
 # installation
-git clone
-npm install 
-node download.js
+git clone<br />
+npm install <br />
+node download.js<br />
 
 # description
 It allow us to download and create two file one with url of the site and other with data
